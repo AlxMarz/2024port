@@ -23,10 +23,11 @@ export default function HomePage() {
   // Iterate over each mock user to display their abridged profile data and a link to their page
   return (
 
-
-    <div className="container">
+    
+    <div className="container" > 
       <div class="jumbotron">
-        <h1 class="display-4">Hello,My name is Alex</h1>
+        
+        <h1 class="display-1">Hello,My name is Alex</h1>
         <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
         <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
         <a class="btn btn-primary btn-lg" href="#" role="button">check out to know more</a>
