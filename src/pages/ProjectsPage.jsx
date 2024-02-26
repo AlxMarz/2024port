@@ -1,5 +1,5 @@
 // This is a static page mocking an "About Us" section for our fake user data
-export default function AboutPage() {
+export default function ProjectPage() {
   return (
     <div className="container pt-4">
       <p>
@@ -13,9 +13,9 @@ export default function AboutPage() {
                 <div className="features-icons-icon d-flex">
                   <i className="bi-window m-auto text-primary" />
                 </div>
-                <h3>Project 1</h3>
+                <h3 >Book Search Engine</h3>
                 <p className="lead mb-0">
-                  This theme will look great on any device, no matter the size!
+                https://github.com/AlxMarz/book-SE
                 </p>
               </div>
             </div>
