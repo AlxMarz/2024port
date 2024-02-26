@@ -15,8 +15,9 @@ export default function ProjectPage() {
                 </div>
                 <h3 >Book Search Engine</h3>
                 <p className="lead mb-0">
-                https://github.com/AlxMarz/book-SE
+                <a class="btn btn-secondary btn-sm" href="https://github.com/AlxMarz/book-SE" role="button">GitHub Link</a>
                 </p>
+                <p>This is a book search engine using Javascrpt, API, MVC</p>
               </div>
             </div>
             <div className="col-lg-4">
@@ -26,7 +27,7 @@ export default function ProjectPage() {
                 </div>
                 <h3>Project 2</h3>
                 <p className="lead mb-0">
-                  Featuring the latest build of the new Bootstrap 5 framework!
+                <a class="btn btn-secondary btn-sm" href="https://github.com/AlxMarz/book-SE" role="button">GitHub Link</a>
                 </p>
               </div>
             </div>
@@ -37,9 +38,9 @@ export default function ProjectPage() {
                 </div>
                 <h3>Project 3</h3>
                 <p className="lead mb-0">
-                  Ready to use with your own content, or customize the source
-                  files!
+                <a class="btn btn-secondary btn-sm" href="https://github.com/AlxMarz/book-SE" role="button">GitHub Link</a>
                 </p>
+                
               </div>
             </div>
           </div>
